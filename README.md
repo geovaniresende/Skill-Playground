@@ -63,3 +63,5 @@ Foco em performance, escalabilidade e manutenibilidade.
 Código limpo, modular e documentado.
 
 Testes implementados para validar funcionalidades críticas.
+
+App desenvolvido por Geovani de Souza Resende
